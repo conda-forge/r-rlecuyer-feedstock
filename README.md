@@ -3,6 +3,7 @@ About r-rlecuyer-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rlecuyer-feedstock/blob/main/LICENSE.txt)
 
+
 About r-rlecuyer
 ----------------
 
@@ -11,6 +12,7 @@ Home: http://www.iro.umontreal.ca/~lecuyer/myftp/papers/streams00.pdf
 Package license: GPL-2.0-or-later
 
 Summary: Provides an interface to the C implementation of the random number generator with multiple independent streams developed by L'Ecuyer et al (2002). The main purpose of this package is to enable the use of this random number generator in parallel R applications.
+
 About r-rlecuyer
 ----------------
 
@@ -153,7 +155,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
